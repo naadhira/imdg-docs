@@ -1,7 +1,7 @@
 name: imdg
 title: Hazelcast IMDG
 version: 4.2-BETA-1
-
+prerelease: true
 asciidoc:
   attributes:
     javasource: ROOT:example$
